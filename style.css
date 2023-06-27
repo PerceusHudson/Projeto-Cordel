@@ -81,14 +81,14 @@ section.imagem> p {
 }
 
 section#foto01{
-    background-image: url('../Def012/imagens/imagem02.jpg');
+    background-image: url('imagens/imagem02.jpg');
     background-position: right center;
     background-size: cover;
 }
 
 section#foto02{
 
-    background-image: url('../Def012/imagens/imagem03.jpg');
+    background-image: url('imagens/imagem03.jpg');
     background-position: center;
     background-size: cover;
 }
